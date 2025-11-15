@@ -5,6 +5,7 @@ Este repositorio contiene el desarrollo completo del proyecto BrailleDotUP, una 
 
 El objetivo del proyecto es ofrecer una alternativa asequible frente a las impresoras Braille comerciales, cuyo costo suele superar los 5.000 USD, limitando el acceso a materiales accesibles en instituciones educativas y comunidades con recursos limitados.
 
+---------------------------------------------------------------
 🚀 Contenido del Repositorio
 
 🔧 Hardware
@@ -20,6 +21,7 @@ Planos mecanizados (CNC)
 Planos completos en PDF
 
 👉 Ver carpeta: /Hardware/
+---------------------------------------------------------------
 
 ⚡ Electrónica
 
@@ -32,6 +34,7 @@ PCB del circuito de solenoides con TIP122
 Fichas técnicas de componentes clave
 
 👉 Ver carpeta: /Electrónica/
+---------------------------------------------------------------
 
 💻 Software y Firmware
 
@@ -44,6 +47,7 @@ Firmware modificado de Marlin para control de motores y solenoides
 Scripts auxiliares en Arduino o Python
 
 👉 Ver carpeta: /Código/
+---------------------------------------------------------------
 
 📄 Documentación
 
@@ -56,6 +60,7 @@ Manual de usuario
 Memoria final del proyecto
 
 👉 Ver carpeta: /Documentación/
+---------------------------------------------------------------
 
 🛠️ Requisitos para compilar y usar
 Hardware
@@ -83,6 +88,7 @@ Marlin Firmware
 AccesBrailleDotUP (incluido en este repo)
 
 SolidWorks (para edición CAD, no incluido)
+---------------------------------------------------------------
 
 📬 Contacto
 
