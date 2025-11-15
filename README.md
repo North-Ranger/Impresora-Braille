@@ -43,7 +43,7 @@ Firmware modificado de Marlin para control de motores y solenoides
 
 Scripts auxiliares en Arduino o Python
 
-👉 Ver carpeta: /Codigo/
+👉 Ver carpeta: /Código/
 
 📄 Documentación
 
@@ -87,10 +87,13 @@ SolidWorks (para edición CAD, no incluido)
 📬 Contacto
 
 Para inquietudes o solicitudes de colaboración:
+
 Nombre(s) de autores 
 John Alejandro Morales Useche
+
 Jorge Daniel Rey Rios
 
 Correo(s)
 moralesuj@javeriana.edu.co
+
 jorge_rey@javeriana.edu.co
