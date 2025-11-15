@@ -56,7 +56,9 @@ Fichas técnicas
 
 Manual de usuario
 
-Memoria final del proyecto
+Costos
+
+Protocolo de pruebas
 
 👉 Ver carpeta: /Documentación/
 
