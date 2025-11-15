@@ -5,11 +5,11 @@ Este repositorio contiene el desarrollo completo del proyecto BrailleDotUP, una 
 
 El objetivo del proyecto es ofrecer una alternativa asequible frente a las impresoras Braille comerciales, cuyo costo suele superar los 5.000 USD, limitando el acceso a materiales accesibles en instituciones educativas y comunidades con recursos limitados.
 
----------------------------------------------------------------
+
 🚀 Contenido del Repositorio
-
+---------------------------------------------------------------
 🔧 Hardware
-
+---------------------------------------------------------------
 Contiene los archivos necesarios para fabricar la impresora:
 
 Modelos 3D en formato STL
@@ -21,10 +21,9 @@ Planos mecanizados (CNC)
 Planos completos en PDF
 
 👉 Ver carpeta: /Hardware/
----------------------------------------------------------------
 
 ⚡ Electrónica
-
+---------------------------------------------------------------
 Incluye:
 
 Esquemáticos del sistema basado en Arduino Mega 2560 + RAMPS 1.4
@@ -34,10 +33,10 @@ PCB del circuito de solenoides con TIP122
 Fichas técnicas de componentes clave
 
 👉 Ver carpeta: /Electrónica/
----------------------------------------------------------------
+
 
 💻 Software y Firmware
-
+---------------------------------------------------------------
 Contiene:
 
 Software AccesBrailleDotUP para comunicación y conversión a Braille
@@ -47,10 +46,10 @@ Firmware modificado de Marlin para control de motores y solenoides
 Scripts auxiliares en Arduino o Python
 
 👉 Ver carpeta: /Código/
----------------------------------------------------------------
+
 
 📄 Documentación
-
+---------------------------------------------------------------
 Incluye:
 
 Fichas técnicas
@@ -60,11 +59,10 @@ Manual de usuario
 Memoria final del proyecto
 
 👉 Ver carpeta: /Documentación/
----------------------------------------------------------------
 
 🛠️ Requisitos para compilar y usar
 Hardware
-
+---------------------------------------------------------------
 Arduino Mega 2560
 
 RAMPS 1.4
@@ -88,10 +86,10 @@ Marlin Firmware
 AccesBrailleDotUP (incluido en este repo)
 
 SolidWorks (para edición CAD, no incluido)
----------------------------------------------------------------
+
 
 📬 Contacto
-
+---------------------------------------------------------------
 Para inquietudes o solicitudes de colaboración:
 
 Nombre(s) de autores 
