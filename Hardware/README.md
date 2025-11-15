@@ -11,20 +11,18 @@ Hardware/
 
 🧩 Descripción de cada carpeta
 ------------------------------------------
-🔺 Corte_laser/
+🔺 Corte Laser/
 
-Incluye las piezas estructurales y cubiertas fabricadas en acrílico o MDF.
+Incluye las piezas estructurales y cubiertas fabricadas en acrílico.
 Los archivos están optimizados para máquinas CO₂ estándar (60–80 W).
 
-🔧 Mecanizado_CNC/
+🔧 Mecanizado CNC/
 
 Contiene las piezas que requieren mayor precisión, tales como:
 
 guías
 
-soportes metálicos
-
-bases mecanizadas
+ejes
 
 Los archivos incluyen formatos compatibles con Fusion 360, SolidWorks y FreeCAD.
 
@@ -39,8 +37,6 @@ soportes de motores
 alojamientos de sensores
 
 guías auxiliares
-
-Probado en PLA y PETG.
 
 
 
