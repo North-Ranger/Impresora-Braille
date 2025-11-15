@@ -6,6 +6,7 @@ Este repositorio contiene el desarrollo completo del proyecto BrailleDotUP, una 
 El objetivo del proyecto es ofrecer una alternativa asequible frente a las impresoras Braille comerciales, cuyo costo suele superar los 5.000 USD, limitando el acceso a materiales accesibles en instituciones educativas y comunidades con recursos limitados.
 
 🚀 Contenido del Repositorio
+
 🔧 Hardware
 
 Contiene los archivos necesarios para fabricar la impresora:
@@ -18,7 +19,7 @@ Planos mecanizados (CNC)
 
 Planos completos en PDF
 
-👉 Ver carpeta: /hardware/
+👉 Ver carpeta: /Hardware/
 
 ⚡ Electrónica
 
@@ -30,7 +31,7 @@ PCB del circuito de solenoides con TIP122
 
 Fichas técnicas de componentes clave
 
-👉 Ver carpeta: /electronica/
+👉 Ver carpeta: /Electrónica/
 
 💻 Software y Firmware
 
@@ -42,7 +43,7 @@ Firmware modificado de Marlin para control de motores y solenoides
 
 Scripts auxiliares en Arduino o Python
 
-👉 Ver carpeta: /codigo/
+👉 Ver carpeta: /Codigo/
 
 📄 Documentación
 
@@ -54,7 +55,7 @@ Manual de usuario
 
 Memoria final del proyecto
 
-👉 Ver carpeta: /documentacion/
+👉 Ver carpeta: /Documentación/
 
 🛠️ Requisitos para compilar y usar
 Hardware
@@ -86,5 +87,10 @@ SolidWorks (para edición CAD, no incluido)
 📬 Contacto
 
 Para inquietudes o solicitudes de colaboración:
-Nombre(s) de autores
+Nombre(s) de autores 
+John Alejandro Morales Useche
+Jorge Daniel Rey Rios
+
 Correo(s)
+moralesuj@javeriana.edu.co
+jorge_rey@javeriana.edu.co
