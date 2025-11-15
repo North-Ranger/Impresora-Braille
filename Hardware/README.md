@@ -2,13 +2,6 @@
 ------------------------------------------
 Esta sección contiene todos los archivos necesarios para fabricar las piezas mecánicas de la impresora Braille.
 
-📂 Estructura
-------------------------------------------
-Hardware/
-├── Corte_laser/        → Archivos .dxf, .svg para acrílico o MDF
-├── Mecanizado_CNC/     → Planos en PDF
-└── Impresion_3D/       → Modelos STL listos para imprimir
-
 🧩 Descripción de cada carpeta
 ------------------------------------------
 🔺 Corte Laser/
@@ -26,7 +19,7 @@ ejes
 
 Los archivos incluyen formatos compatibles con Fusion 360, SolidWorks y FreeCAD.
 
-🧱 Impresion_3D/
+🧱 Impresion 3D/
 
 Modelos STL de:
 
