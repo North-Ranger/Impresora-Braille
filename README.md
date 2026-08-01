@@ -1,14 +1,14 @@
 # Impresora-Braille
-📘 BrailleDotUP – Impresora Braille de Bajo Costo
+BrailleDotUP – Impresora Braille de Bajo Costo
 
 Este repositorio contiene el desarrollo completo del proyecto BrailleDotUP, una impresora Braille de bajo costo diseñada como trabajo de grado para el Instituto Nacional para Ciegos (INCI). Incluye diseños mecánicos, archivos de manufactura, esquemas electrónicos, firmware y software de comunicación.
 
 El objetivo del proyecto es ofrecer una alternativa asequible frente a las impresoras Braille comerciales, cuyo costo suele superar los 5.000 USD, limitando el acceso a materiales accesibles en instituciones educativas y comunidades con recursos limitados.
 
 
-🚀 Contenido del Repositorio
+Contenido del Repositorio
 ---------------------------------------------------------------
-🔧 Hardware
+Hardware
 ---------------------------------------------------------------
 Contiene los archivos necesarios para fabricar la impresora:
 
@@ -22,7 +22,7 @@ Planos completos en PDF
 
 👉 Ver carpeta: /Hardware/
 
-⚡ Electrónica
+Electrónica
 ---------------------------------------------------------------
 Incluye:
 
@@ -35,7 +35,7 @@ Fichas técnicas de componentes clave
 👉 Ver carpeta: /Electrónica/
 
 
-💻 Software y Firmware
+Software y Firmware
 ---------------------------------------------------------------
 Contiene:
 
@@ -48,7 +48,7 @@ Scripts auxiliares en Arduino o Python
 👉 Ver carpeta: /Código/
 
 
-📄 Documentación
+Documentación
 ---------------------------------------------------------------
 Incluye:
 
@@ -60,7 +60,7 @@ Memoria final del proyecto
 
 👉 Ver carpeta: /Documentación/
 
-🛠️ Requisitos para compilar y usar
+Requisitos para compilar y usar
 Hardware
 ---------------------------------------------------------------
 Arduino Mega 2560
@@ -88,18 +88,19 @@ AccesBrailleDotUP (incluido en este repo)
 SolidWorks (para edición CAD, no incluido)
 
 
-📬 Contacto
+Contacto
 ---------------------------------------------------------------
 Para inquietudes o solicitudes de colaboración:
 
 Nombre(s) de autores 
 
+Jorge Daniel Rey Rios
+
 John Alejandro Morales Useche
 
-Jorge Daniel Rey Rios
 
 Correo(s)
 
-moralesuj@javeriana.edu.co
-
 jorge_rey@javeriana.edu.co
+
+moralesuj@javeriana.edu.co
